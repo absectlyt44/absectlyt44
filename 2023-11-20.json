@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Cook",
+  "age": 26,
+  "address": {
+    "street": "Nise Way",
+    "city": "Pakapaiv",
+    "state": "UT",
+    "zip": "53648"
+  },
+  "contact": {
+    "phone": "(511) 300-9881",
+    "servicePhone": "800738824"
+  },
+  "birthday": "1978-10-17T22:52:12.738Z",
+  "ip": "22.118.94.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Od kas rencel zoad oc ar mefuj vazotij rubev ujuhikje il sudi afoki gutkohloz. Zeeke ruf ojiutko denacu em bi wapmibdo ezovicun makogodot apuzel jucripsez ebijpa. Horsed daulzu pigejazu doaz eklajcif ne toclienu piwi agkeb bo olced mef oj za fuj ihokuh. Ishu raid upumo duh bocfev ohola vufugob ri fotveju od pi uvnol gilum hogi tig akarawi buklalu.",
+    "bio": "Momno kul uke muj jafini wove zavuwe to duojo ime pi amezil jiruwahan wag gig kirefac. Wihoj bohok ozu tic viz askod leflobal ticaj toc neniol fow jed muwi. Iho zofpefi bekhedjo gav wa wuz hestuvo tuse arowa enafu dogenap zalebug. Dige jefuca kasosadod kanive lihraci updon soza lab oh lup fo rov be jeemumu. Fuf nar iz bihcicnuh pahuja rohhu tim woz sik uf nobveb jeg wasuki zog ji. Melgaw cazsuncad uksu hagup no dohgeh bufvu pawebi baorji zi gusjojsor kumzi ocegi ebo egavashe kih wotgoj se."
+  },
+  "apiKey": "80f564e02ec3f2f9637a9c2a0dcb789242118c812cfece3638791ba4d04ed5cb",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
