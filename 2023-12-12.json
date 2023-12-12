@@ -1,0 +1,26 @@
+{
+  "name": "Isabelle Goodwin",
+  "age": 19,
+  "address": {
+    "street": "Maoc Court",
+    "city": "Pijalejaw",
+    "state": "NH",
+    "zip": "60911"
+  },
+  "contact": {
+    "phone": "(714) 863-1551",
+    "servicePhone": "800432245"
+  },
+  "birthday": "1960-11-27T17:12:54.087Z",
+  "ip": "237.245.119.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Fadlasuta we sinoew uv ziw juvejdu ab feori idifoc na tiidse teguczu ka. Tikzesmor todoasa afo bap vehmanif pecobu za fuk siwnidju bakfe efolonel wuzdugge. Livutad pav ervuce ehsamiv okawuse isgip nuv ajamezu jimohge gofirtes hi irolow ajo wetawu vafuhid mov.",
+    "bio": "Iluvetcu codowof ha obowuz feda cukgusuj tovi ijvin cewkem lepe etiiwifem roj hifu voc in. Dieberi pappa riri zona ab ijnevce gejna pezdi kug puldug juv irfig cofof he vomkicipo. Wutwaztad hupmu vagob ejien eddinat lujdetup peljotu hoteprad tar moecgar muah nuhusu oki hanfuvpa. Roihnu hoteved pidufje ulo roweborum wuhuw tavra rer vonehe tuscevav amore nevok."
+  },
+  "apiKey": "394ff039eac9ff1a5cc820ace43e58fc1045dab855fd3ed45cbb8ed36eb0af2c",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
