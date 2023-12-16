@@ -1,0 +1,26 @@
+{
+  "name": "Jack Hicks",
+  "age": 40,
+  "address": {
+    "street": "Igirej Highway",
+    "city": "Kocbima",
+    "state": "ME",
+    "zip": "62482"
+  },
+  "contact": {
+    "phone": "(503) 427-2979",
+    "servicePhone": "800947693"
+  },
+  "birthday": "1998-06-23T18:31:49.889Z",
+  "ip": "139.195.1.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Lemkij kipo na fujdotcen ucoge nitana bawlooz cada lu huhawol urodenud uwalu saja nawew bonwof cud mugi. Nuwkeir olosunwin ipeb lugila jawof am so mi siwa soktaj nuehati ijzuwi tim huvsun diagajoz ufe lasgo vauw. Oni doesego lulo hurliiwa ga ehi kuficefuj jul hokzuwot hejdoj jiso usu oma borceole lido nen bedsevos po. Raufita vizse kerobpud bemo itkejvel jag laapwi pazroho uh ofojajjav epapid weepu neejera pi. Poprudin bekolejo ge neolu udpuin nod da awzemol paret mun mih erurubam fi liluwbog bodutmiz.",
+    "bio": "Rif sedez gosoddac wawifam ovmi dafegva toeha ele vimco we urozmov azibe riur. Cokov mum pom kukagad no ju va ahidap ji tu pueb bosivi daut mebimu. Mara bartiw bim fonecfi du ve jigocpo poghag go uciavu evna hurse bid dakkem anago tufi kanutew elva. Guirlo wimfemja vawtasar pudale oj buk po situviva umadas seti wuhomga depen ke vof gujzatvir busano gurivhiz lomar. Wopnim cunpuhep fo fabujde akoujihol hagino ficertes bircec ibonen wa pu ma ura gi cesapuv zup. Nedle odpup pebuz paletuji gajuv sapreli siwucju mosioto pogpaj poke evocabu muso amda sedizeci rofhovriv daz tafu. Tihsehaz misucog te ceteoz cijad munon da vof bathokker wo ora teaje ho."
+  },
+  "apiKey": "d3e727e9c7b4d9e7960ee646c6d6fe96e6c3e72703da13c940dbf139d99e02a2",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
