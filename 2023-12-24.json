@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Thompson",
+  "age": 45,
+  "address": {
+    "street": "Bozaj Lane",
+    "city": "Dikgegan",
+    "state": "KS",
+    "zip": "23165"
+  },
+  "contact": {
+    "phone": "(604) 538-9966",
+    "servicePhone": "800637363"
+  },
+  "birthday": "1967-01-04T15:25:06.630Z",
+  "ip": "242.135.211.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Cupocuw nelo toprif fiupujil sadmakic ru amoijatoh suguje mor natovlu obaag dig gocawho peniguj ez. Zate tedfa no ivomef zoilo feg nit bomludoto bukiifu hohvi hual akeedhu susdeddaj paz dijvetro lesanitu re hawi. Puhap rer lanifhe wujo neplew poru huvan ju upotwi ni wug igwo acveib tuz ja valemja.",
+    "bio": "Burono souvafeg kafidab jo biuffo vaz irejofwi ar ela go isa fazopaw miam huwaop ip genef evduavi gosajam. Sugmablag anonwew jezewadi wuoho wukibje tep notodkiw huelges nep itegut led girja na. Lecballi bodda cecabguv zusiema tulgo tetnos bafzo tibar up wuar ana penovow."
+  },
+  "apiKey": "55bd57ae6dc1758208607a35038d5975ff106a010d0cd1b5015323dd0e3924df",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
