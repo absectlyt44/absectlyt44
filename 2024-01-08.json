@@ -1,0 +1,26 @@
+{
+  "name": "Alta Perry",
+  "age": 36,
+  "address": {
+    "street": "Irinel Extension",
+    "city": "Gurezsez",
+    "state": "MA",
+    "zip": "80189"
+  },
+  "contact": {
+    "phone": "(370) 230-7940",
+    "servicePhone": "800882255"
+  },
+  "birthday": "2000-06-17T09:39:01.375Z",
+  "ip": "14.225.144.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo noanotu napdu pasbos ufge vid ga bivakto sid zuejza tare ul ovunuvo ciste. Pesuf waki ose sinas jom olu agfil jomseel ta egliptuf jozjotkej lofojim pieh po biku jo. Gimoke ocavawbaz epuhim kiwihohof ila vavuk us pe rig vabni naokfar dian. Or ako tujzeuru hicorav com li op wiejla naamlop we pow bitab raonu mi.",
+    "bio": "Jokacuz uwe gi desa na narir tasec lawevba nu rivlere ipimemu orita liguhpo pewuzal sifoivu. Godejra do fu pejvijsu fenpol puj ugluteb opodukfi bufevom dadres mekaho cap. Iruje pikpa gul dah hej sovlewmis udupi ka gujuge bo gi owiwahed kavezfic no korgockif ewowew por le. Za ufnez kijdo re zemesi etruk fabovjo kuirilo ahopupim nube wofmonava liz vu uzo nejvuf tuwenum. No jebu coawumiz lohkig co zuhu cu dasbom razov anob ip wiazni semu him. Vuhalehi ed peuhe kiwe nasu mazjomzo niac jajecob cifohzi jotnawni egu kezaoje dut jil vej tokof pad hutcuv."
+  },
+  "apiKey": "85191d72240184f9a8df8dc92deb336fcfdad675096dd62987624fffc281ced5",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
