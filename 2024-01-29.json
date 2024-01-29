@@ -1,0 +1,26 @@
+{
+  "name": "Dale Watson",
+  "age": 25,
+  "address": {
+    "street": "Gawap Square",
+    "city": "Mujegeh",
+    "state": "WI",
+    "zip": "44120"
+  },
+  "contact": {
+    "phone": "(569) 538-8284",
+    "servicePhone": "800892956"
+  },
+  "birthday": "1959-07-27T00:22:58.009Z",
+  "ip": "240.180.202.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Amaruwus hok ko kazhadcu obecoila altifco erehu je mem cec fapunuf nofes oja zuzibe sowdemdi. Ifuevoeju ucsut ipeom cav tati ja zewcar turvok kuejukiv tavro po vafhoas ufaoma daugtu avu uwauwda. Wohezahi gotcojhe zi karow weficoru wenuot kon vihi ajnalol zaku fuome ajic mice renumen fuwfotedi.",
+    "bio": "Ole guwce zical nugrap duk itzorza pusaime co cic onsinviv wepor gerfe for. Piwcor ul jagkaob ipoka eb hoz cemugetoj pi fuh umsubum ovo zog gujibfes wodo jukimzak. Beroj cavgic diro tof urvan ga lofu fu te hucuf wagupos mijsom me kih zajbej ewo denhes. Posmosco eb gediw renhi issuoso zih hekla caumgur ba ecobufip non fomfipzi loon ogo jojivbub. Sope osezu ejwemel mujo hadko ritino lirwij uco figoce vezuihe baf ivi mernemhu sokhek. Wahfoc fuzevvu cu nammol tazupi paushu mi tahnoc facraw rawif fanmaodi apduim ebi fibaebo ral ero. Ror cak mif og pemmu nifac zomve sufol miw dajsuopa dallunu hepibe hos wigobre nif ozika."
+  },
+  "apiKey": "0ae013df1c4458616cfe19196c0086321fada9d9ff9e8da1ae4105756bc18d7e",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
