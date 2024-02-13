@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Floyd",
+  "age": 42,
+  "address": {
+    "street": "Seda Extension",
+    "city": "Poowemaj",
+    "state": "MS",
+    "zip": "97194"
+  },
+  "contact": {
+    "phone": "(203) 323-5811",
+    "servicePhone": "800442973"
+  },
+  "birthday": "1988-01-09T15:37:10.706Z",
+  "ip": "220.54.151.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Digogi ziagi nujmuf go kutolem jogi sawet vev wewmufis kogi getjumo cawdutvu bam cacuwagij jamsamzi ocejasa ape. Rapahigen seshiku evofaug tujmef abo icunu folacelew lakdol relaw koiso uzporfoh dazho wu leninja. Joldofif wowam adata jacdolu redajte hahpof zodwelo arisonze sabo lel ze mododwaw. Fal zumzetfo ral ca kirip wusbip olmo ponifni zinumwam umo talekigor zum af. Deero dit ruol merirjib jewaw neceoz mucavmi vehi uh ve zarvuk saf isu bopuzecu ussun kaf. Owvaza vis ak ju rimcadi itafa ideholup rehdottu nut vupnomal cib musi sucezkeg. Ohpevtan wajrona lusumu du ke gahear gusiz sivahe ojrehov iwagikat toconpa donpan mecaju howiprot pudo.",
+    "bio": "Er ajaje nuti lug zuj jeh nanjozjo noz ji apu kiz vuvkisgor mafrasil liudosuj avgeh. Husuzis nogketkiv kommejik ce je fovbe tebfuc rak awivuen wico sevtuluc wabugir bupug. Azca go vuhkigpig zuk rena cu fah gumisaz fe upgibi okdavpe ga nozevte gettaslap fud kibtu. Vubac ketkatgib fu tulob iga jeruseiv ripvar wafuum deg vobu afeirevac jicize ru nuja vot marjaf op borip."
+  },
+  "apiKey": "e7bfd336963e3c591eac39fca563f163ac8a058dc5b053aa96e9aef8440a2f2c",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
