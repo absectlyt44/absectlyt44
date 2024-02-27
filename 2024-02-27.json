@@ -1,0 +1,26 @@
+{
+  "name": "Carrie Lawrence",
+  "age": 42,
+  "address": {
+    "street": "Gigew Ridge",
+    "city": "Zezcuvon",
+    "state": "CT",
+    "zip": "57358"
+  },
+  "contact": {
+    "phone": "(663) 273-5812",
+    "servicePhone": "800599272"
+  },
+  "birthday": "1995-06-25T19:30:32.663Z",
+  "ip": "218.133.228.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu mokamtu gavupve giphinu wowed ca me tu ule aceda mitcehewi vowbiduk. Zov hejmer voc mat emairu zajumjit puvgiir vosuvu guhavifij loama piot gifbepwi toflus vepmid uzoucive. Nenriptu nutucu atiki gas wandawruz mowli ogo ric avo gukav marunuj joibe go fo zo isuedila cekkowcap gimewuwo.",
+    "bio": "Lu zabif segunrom gege jij gossa we fanjo toiz omiwo vemi emtosa raheppub go ereho ovomeba fijzuen ter. Jemtakumo movpomse nanmilip vaciwpub mepe haflovri ku peg ba fam somo vizji ehpamu du opop. Las ven ovuvaz da judbesur mijaza baro ilaab ru mazu uwibukgez iwvatbe puz."
+  },
+  "apiKey": "ce5a5fe4619c4c7227e4deeee616dbeef49051514ed4bd3e84127ab822d08ec2",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
