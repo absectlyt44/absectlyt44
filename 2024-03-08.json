@@ -1,0 +1,26 @@
+{
+  "name": "Jon Brock",
+  "age": 36,
+  "address": {
+    "street": "Daofi Extension",
+    "city": "Cabjudeki",
+    "state": "NJ",
+    "zip": "35568"
+  },
+  "contact": {
+    "phone": "(807) 382-5093",
+    "servicePhone": "800147754"
+  },
+  "birthday": "2002-08-08T03:42:36.402Z",
+  "ip": "114.130.66.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuhe siakajuv wud zalifuj ubocil gigluf go rebfuin hevvom jum ves riru duv lohjacmu ciijo humju. Esek edbozer fu luferih buli zocen ecelaskis lu vupnofej jowe petjamduf cuvujiwe. Tanjuplam jefel ror cug pu curzodo onecnen zotpus rejpad jesu giwa majkod. Feftasvit hufi vu ticikgih bi zew rambab fe vurmonace tahsez unaudjo bawkevi puhkeej kukduke. Fezujege do ha bactad los vugehsuc vipup kevpama jejiar culer agucikhuj odce. Ewa ohu hofe di gu ho etnele isi wegoz dibap ecdotca je. Juvu obna gu pinoc vevuzon zolev teblec unu gi za ub cifrubnok jefauhu ra tuhvogi.",
+    "bio": "Zuf rijcucviv nedeek cija sicfut rim puaveko mipati hobnok aso wok cuig naceut. Ervegeg epafur eb asa turomim fumujihi ajuku ri wereje bel ezinuf vinhukec. Cuw ce bufen soskan colo ha lem jan ban dafuaji ucunez on liw gapfanmip gecev eg tizoir sallajto."
+  },
+  "apiKey": "e1ffe4d794cd4e2f8f02e459ba7a374c5b4d893fc1dcd0e89af35a225a9ce780",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
